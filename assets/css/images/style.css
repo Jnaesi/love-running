@@ -23,6 +23,16 @@ body {
     margin-right: 30px;
 }
 
+menu a {
+    text-decoration: none;
+    color: inherit;
+
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
 /* headings and logo */
 
 h1, h2 {
