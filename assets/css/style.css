@@ -33,6 +33,10 @@ menu a {
     line-height: 75px;
 }
 
+#menu a:hover {
+    border-bottom: 1px solid #3a3a3a;
+}
+
 /* headings and logo */
 
 h1, h2 {
@@ -47,4 +51,9 @@ h1, h2 {
     float: left;
     font-size: 280%;
     
+}
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
+
 }
